@@ -1,0 +1,10 @@
+PODS:
+  - ImagePickerSheet (0.0.8)
+
+DEPENDENCIES:
+  - ImagePickerSheet (~> 0.0.8)
+
+SPEC CHECKSUMS:
+  ImagePickerSheet: 84ca25f42fca91365379bf18e5a267f93e67b071
+
+COCOAPODS: 0.37.1
